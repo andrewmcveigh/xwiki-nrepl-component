@@ -1,0 +1,2 @@
+com.dirtybrussels.xwiki_nrepl_component.internal.DefaultXWikiNRepl
+com.dirtybrussels.xwiki_nrepl_component.internal.XWikiNReplScriptService

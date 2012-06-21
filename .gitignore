@@ -1,0 +1,17 @@
+*.*~
+.DS_Store
+.sass-cache/
+maintenance/
+target/
+*.jar
+*.cake/*
+log.out
+*._*
+src/test/webapp/plugins/*
+pom.xml.bak
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
+src/test/resources/test.db
+.fuse*
